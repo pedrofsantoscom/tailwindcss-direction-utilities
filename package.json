@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "tailwindcss": "^1.0.1"
+    "tailwindcss": "^1.0.1",
+    "tailwindcss-dir": "^4.0.0"
   }
 }
