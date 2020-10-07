@@ -1,4 +1,6 @@
-module.exports = function ({ addUtilities }) {
+const plugin = require('tailwindcss/plugin');
+
+module.exports = plugin(function ({ addUtilities }) {
   addUtilities(
     {
       '.ltr': {
@@ -12,4 +14,4 @@ module.exports = function ({ addUtilities }) {
       variants: ['responsive', 'direction'],
     }
   );
-};
+});
