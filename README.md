@@ -12,7 +12,7 @@ Adds LTR and RTL utilities classes to tailwindcss
     ]
   };
   ```
-3. Usage:
+3. Usage examples:
   ```html
   <div class="lg:ltr lg:rtl:ltr rtl:ltr ltr:rtl md:rtl:ltr ltr rtl" />
   ```
