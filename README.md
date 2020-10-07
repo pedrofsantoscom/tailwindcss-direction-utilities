@@ -14,7 +14,7 @@ Adds LTR and RTL utilities classes to tailwindcss
   ```
 3. Usage:
   ```html
-  <div class="lg:ltr lg:rtl:ltr rtl:ltr ltr:rtl md:rtl:ltr" />
+  <div class="lg:ltr lg:rtl:ltr rtl:ltr ltr:rtl md:rtl:ltr ltr rtl" />
   ```
   
 `ltr:*` and `rtl:*` variants from [tailwindcss-dir](https://github.com/RonMelkhior/tailwindcss-dir)
