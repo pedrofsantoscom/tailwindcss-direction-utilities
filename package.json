@@ -1,0 +1,13 @@
+{
+  "name": "tailwindcss-direction-utilities",
+  "version": "1.0.0",
+  "description": "Adds LTR and RTL utility classes to tailwindcss",
+  "main": "src/index.js",
+  "repository": "https://github.com/pedrofsantoscom/tailwindcss-direction-utilities.git",
+  "author": "Pedro Santos <me@pedrofsantos.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "tailwindcss": "^1.0.1"
+  }
+}
